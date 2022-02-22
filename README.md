@@ -4,7 +4,7 @@ Course material for the unit testing &amp; test driven development course. @Inet
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/robindpw/Course_UnitTesting_TestDrivenDevelopment)
 [![Github last commit](https://img.shields.io/github/last-commit/robindpw/Course_UnitTesting_TestDrivenDevelopment)]()
 ![](https://komarev.com/ghpvc/?username=robindpw)
-[![](https://img.shields.io/badge/Click%20me%20for%20solutions-blue.svg)](https://github.com/robindpw/Course_UnitTesting_TestDrivenDevelopment/tree/solutions)
+[![](https://img.shields.io/badge/Click%20me%20for%20solutions-blue.svg)](https://github.com/robindpw/Course_UnitTesting_TestDrivenDevelopment/tree/main/Solutions)
 
 ## Exercises
 
