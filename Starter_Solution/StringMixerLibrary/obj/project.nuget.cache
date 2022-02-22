@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3ZKJqLUOSDX+fg1W5Nc10xEzChu6hPlhc8dwAltXnr/uXOM3QDwNkE1qGCXLmRe3FI11tJmBHDG8lk6ojgQsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mds770\\Source\\Repos\\robindpw\\Course_UnitTesting_TestDrivenDevelopment\\Starter_Solution\\StringMixerLibrary\\StringMixerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mds770\\.nuget\\packages\\fluentassertions\\6.4.0\\fluentassertions.6.4.0.nupkg.sha512",
+    "C:\\Users\\mds770\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\mds770\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

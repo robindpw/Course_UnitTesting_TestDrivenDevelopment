@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69108d60-e75f-43e7-9d75-6bb971bafafc": {
+      "ProjectGuid": "69108d60-e75f-43e7-9d75-6bb971bafafc",
+      "DisplayName": "BasicCalculator.Test",
+      "ColorIndex": 0
+    },
+    "75d3c08a-afe8-4b99-bd5d-1e1c9277d806": {
+      "ProjectGuid": "75d3c08a-afe8-4b99-bd5d-1e1c9277d806",
+      "DisplayName": "DateTimeLibrary.Test",
+      "ColorIndex": 1
+    },
+    "f202049a-0b55-4c0c-ae21-f22812d90490": {
+      "ProjectGuid": "f202049a-0b55-4c0c-ae21-f22812d90490",
+      "DisplayName": "StringMixerLibrary.Test",
+      "ColorIndex": 2
+    },
+    "8ed93156-2461-49ef-8955-2babd7833ca8": {
+      "ProjectGuid": "8ed93156-2461-49ef-8955-2babd7833ca8",
+      "DisplayName": "RestaurantApp.Test",
+      "ColorIndex": 3
+    },
+    "e83c6472-ca3b-4419-9595-9b20160db5a2": {
+      "ProjectGuid": "e83c6472-ca3b-4419-9595-9b20160db5a2",
+      "DisplayName": "Shopping.Test",
+      "ColorIndex": 4
+    },
+    "afccdccf-11f9-42bb-860d-92a780d3a4c0": {
+      "ProjectGuid": "afccdccf-11f9-42bb-860d-92a780d3a4c0",
+      "DisplayName": "CalculatorApp.Domain.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

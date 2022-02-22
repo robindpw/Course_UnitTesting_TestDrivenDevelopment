@@ -1,0 +1,348 @@
+﻿++Solution 'acaddemicts-unit-testing' ‎(12 of 12 projects)
+i:{00000000-0000-0000-0000-000000000000}:acaddemicts-unit-testing.sln
+++3. BDD - TDD
+i:{00000000-0000-0000-0000-000000000000}:3. BDD - TDD
+++CalculatorApp.Domain
+i:{23b0d783-d2fc-49e4-9b5e-bc267f4d1456}:CalculatorApp.Domain
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain\calculatorapp.domain.csproj
+++Dependencies
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:>1886
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1887
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:>1234
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>1291
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:>1200
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>1460
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:>1516
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>1515
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:>1665
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>1968
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:>1700
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>1743
+++Calculator.cs
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain\calculator.cs
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator\calculator.cs
+++Analyzers
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:analyzers
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:analyzers
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:analyzers
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:analyzers
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:analyzers
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:analyzers
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:analyzers
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:analyzers
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:analyzers
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:analyzers
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:analyzers
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:analyzers
+++Frameworks
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:frameworks
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:frameworks
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:frameworks
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:frameworks
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:frameworks
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:frameworks
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:frameworks
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:frameworks
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:frameworks
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:frameworks
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:frameworks
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{d4b99da6-c4dd-4849-bce4-c5ed2ccefcce}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain\microsoft.netcore.app
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain.test\microsoft.netcore.app
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator\microsoft.netcore.app
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\microsoft.netcore.app
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary\microsoft.netcore.app
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary.test\microsoft.netcore.app
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary\microsoft.netcore.app
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary.test\microsoft.netcore.app
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\microsoft.netcore.app
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping.test\microsoft.netcore.app
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp\microsoft.netcore.app
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp.test\microsoft.netcore.app
+++CalculatorApp.Domain.Test
+i:{23b0d783-d2fc-49e4-9b5e-bc267f4d1456}:CalculatorApp.Domain.Test
+++CalculatorTests.cs
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain.test\calculatortests.cs
+++coverage.bat
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\calculatorapp.domain.test\coverage.bat
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage.bat
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary.test\coverage.bat
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary.test\coverage.bat
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping.test\coverage.bat
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp.test\coverage.bat
+++Packages
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:packages
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:packages
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:packages
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:packages
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:packages
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:packages
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:packages
+++Projects
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:projects
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:projects
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:projects
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:projects
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:projects
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:projects
+++xunit.analyzers
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\users\mds770\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1989
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2054
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2023
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>2033
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2084
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>2002
+++coverlet.msbuild (3.1.2)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>2444
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2108
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2443
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>2440
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2442
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>2441
+++FluentAssertions (6.4.0)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1986
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2051
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2020
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:>2080
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2081
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>1999
+++Microsoft.NET.Test.Sdk (17.0.0)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1985
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2050
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2019
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>2030
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2079
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>1998
+++xunit (2.4.1)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1987
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2052
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2021
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>2031
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2082
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>2000
+++xunit.runner.visualstudio (2.4.3)
+i:{afccdccf-11f9-42bb-860d-92a780d3a4c0}:>1988
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2053
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2022
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:>2032
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2083
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>2001
+++1. Unit Testing Basics
+i:{00000000-0000-0000-0000-000000000000}:1. Unit Testing Basics
+++1.1. Basic Calculator
+i:{979a99d5-f7a5-4bae-a673-2b8721d3bb0f}:1.1. Basic Calculator
+++1.1. Basic Calculator Exercise.txt
+i:{b903b65a-183e-405d-85ea-92496f18677b}:C:\Users\mds770\Source\Repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\1.1. Basic Calculator Exercise.txt
+++BasicCalculator
+i:{b903b65a-183e-405d-85ea-92496f18677b}:BasicCalculator
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator\bin\debug\net6.0\basiccalculator.dll
+++CalculationException.cs
+i:{19f5f63d-15f6-4337-91d0-6f4868cf4f24}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator\calculationexception.cs
+++BasicCalculator.Test
+i:{b903b65a-183e-405d-85ea-92496f18677b}:BasicCalculator.Test
+++1.1.1. Basic Tests
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.1. basic tests\
+++AddTests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.1. basic tests\addtests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.2. fluentassertions\addtests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.3. theories\addtests.cs
+++DivideTests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.1. basic tests\dividetests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.2. fluentassertions\dividetests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.3. theories\dividetests.cs
+++MultiplyTests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.1. basic tests\multiplytests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.2. fluentassertions\multiplytests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.3. theories\multiplytests.cs
+++SubtractTests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.1. basic tests\subtracttests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.2. fluentassertions\subtracttests.cs
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.3. theories\subtracttests.cs
+++1.1.2. FluentAssertions
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.2. fluentassertions\
+++1.1.3. Theories
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\1.1.3. theories\
+++coverage
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\
+++report
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\
+++coverage.opencover.xml
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\coverage.opencover.xml
+++FakeItEasy (7.3.0)
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:>2055
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:>2024
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:>2085
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:>2003
+++BasicCalculator_CalculationException.html
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\basiccalculator_calculationexception.html
+++BasicCalculator_Calculator.html
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\basiccalculator_calculator.html
+++class.js
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\class.js
+++icon_cube.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_cube.svg
+++icon_cube_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_cube_dark.svg
+++icon_down-dir_active.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_down-dir_active.svg
+++icon_down-dir_active_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_down-dir_active_dark.svg
+++icon_fork.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_fork.svg
+++icon_fork_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_fork_dark.svg
+++icon_info-circled.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_info-circled.svg
+++icon_info-circled_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_info-circled_dark.svg
+++icon_minus.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_minus.svg
+++icon_minus_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_minus_dark.svg
+++icon_plus.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_plus.svg
+++icon_plus_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_plus_dark.svg
+++icon_search-minus.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_search-minus.svg
+++icon_search-minus_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_search-minus_dark.svg
+++icon_search-plus.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_search-plus.svg
+++icon_search-plus_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_search-plus_dark.svg
+++icon_sponsor.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_sponsor.svg
+++icon_star.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_star.svg
+++icon_star_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_star_dark.svg
+++icon_up-dir.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_up-dir.svg
+++icon_up-dir_active.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_up-dir_active.svg
+++icon_wrench.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_wrench.svg
+++icon_wrench_dark.svg
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\icon_wrench_dark.svg
+++index.htm
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\index.htm
+++index.html
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\index.html
+++main.js
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\main.js
+++report.css
+i:{69108d60-e75f-43e7-9d75-6bb971bafafc}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\basiccalculator.test\coverage\report\report.css
+++1.2. DateTimeRange
+i:{979a99d5-f7a5-4bae-a673-2b8721d3bb0f}:1.2. DateTimeRange
+++1.2. DateTimeRange.txt
+i:{8deaaef4-83ac-4c61-83b5-7e729ab392a7}:C:\Users\mds770\Source\Repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\1.2. DateTimeRange.txt
+++DateTimeLibrary
+i:{8deaaef4-83ac-4c61-83b5-7e729ab392a7}:DateTimeLibrary
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary\bin\debug\net6.0\datetimelibrary.dll
+++DateTimeRange.cs
+i:{7bcdd536-03d3-4926-8f68-fe1f94a28a5f}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary\datetimerange.cs
+++DateTimeLibrary.Test
+i:{8deaaef4-83ac-4c61-83b5-7e729ab392a7}:DateTimeLibrary.Test
+++DateTimeRangeTests.cs
+i:{75d3c08a-afe8-4b99-bd5d-1e1c9277d806}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\datetimelibrary.test\datetimerangetests.cs
+++1.3. StringMixer
+i:{979a99d5-f7a5-4bae-a673-2b8721d3bb0f}:1.3. StringMixer
+++1.3 StringMixer.txt
+i:{94a73a34-9272-4aa1-86d9-6e4c47f50287}:C:\Users\mds770\Source\Repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\1.3 StringMixer.txt
+++StringMixerLibrary
+i:{94a73a34-9272-4aa1-86d9-6e4c47f50287}:StringMixerLibrary
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary\bin\debug\net6.0\stringmixerlibrary.dll
+++StringMixer.cs
+i:{84411c03-d30d-434d-a4cb-8bdd0fa86030}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary\stringmixer.cs
+++StringMixerLibrary.Test
+i:{94a73a34-9272-4aa1-86d9-6e4c47f50287}:StringMixerLibrary.Test
+++MixTests.cs
+i:{f202049a-0b55-4c0c-ae21-f22812d90490}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\stringmixerlibrary.test\mixtests.cs
+++2. Fakes
+i:{00000000-0000-0000-0000-000000000000}:2. Fakes
+++2.2. ShoppingBasket
+i:{4848d017-fa36-4e0a-af05-1a0cb620f8c1}:2.2. ShoppingBasket
+++2.2. ShoppingBasket.txt
+i:{0e478a3c-e253-4059-9238-f8454ddcbbf1}:C:\Users\mds770\Source\Repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\2.2. ShoppingBasket.txt
+++Shopping
+i:{0e478a3c-e253-4059-9238-f8454ddcbbf1}:Shopping
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\bin\debug\net6.0\shopping.dll
+++Article.cs
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\article.cs
+++ArticleEntry.cs
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\articleentry.cs
+++IPriceCatalog.cs
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\ipricecatalog.cs
+++ISoundModule.cs
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\isoundmodule.cs
+++ShoppingBasket.cs
+i:{0cd10116-6a2d-4831-ab04-a92941915654}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping\shoppingbasket.cs
+++Shopping.Test
+i:{0e478a3c-e253-4059-9238-f8454ddcbbf1}:Shopping.Test
+++ShoppingBasketTests.cs
+i:{e83c6472-ca3b-4419-9595-9b20160db5a2}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\shopping.test\shoppingbaskettests.cs
+++2.1. Restaurant
+i:{4848d017-fa36-4e0a-af05-1a0cb620f8c1}:2.1. Restaurant
+++2.1. Restaurant.txt
+i:{c2ca3982-dae0-4ddd-9aff-cc4d21459e22}:C:\Users\mds770\Source\Repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\2.1. Restaurant.txt
+++RestaurantApp
+i:{c2ca3982-dae0-4ddd-9aff-cc4d21459e22}:RestaurantApp
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp\restaurantapp.csproj
+++IKitchen.cs
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp\ikitchen.cs
+++Order.cs
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp\order.cs
+++Restaurant.cs
+i:{f0fe3ee1-0ca7-4085-8d9f-1bf0663b37ab}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp\restaurant.cs
+++RestaurantApp.Test
+i:{c2ca3982-dae0-4ddd-9aff-cc4d21459e22}:RestaurantApp.Test
+++RestaurantTests.cs
+i:{8ed93156-2461-49ef-8955-2babd7833ca8}:c:\users\mds770\source\repos\robindpw\course_unittesting_testdrivendevelopment\starter_solution\restaurantapp.test\restauranttests.cs

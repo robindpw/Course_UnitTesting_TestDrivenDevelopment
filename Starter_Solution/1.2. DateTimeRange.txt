@@ -1,0 +1,9 @@
+1.2. DateTimeRange
+    Create a struct DateTimeRange. 
+	A DateTimeRange is constructed using two properties: Begin and End.
+	DateTimeRanges are not equal if Begin and/or End are not equal.
+	DateTimeRange has one method: IsInRange(DateTime dateTime),
+	that will determine if the given date time is in its range.
+
+	You can use FluentAssertions and/or Theories. DateTime cannot be passed
+	as an argument to InlineData, so you will have to use MemberData
