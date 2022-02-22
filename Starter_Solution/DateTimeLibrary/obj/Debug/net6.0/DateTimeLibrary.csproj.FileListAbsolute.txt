@@ -1,0 +1,12 @@
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\bin\Debug\net6.0\DateTimeLibrary.deps.json
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\bin\Debug\net6.0\DateTimeLibrary.dll
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\bin\Debug\net6.0\ref\DateTimeLibrary.dll
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\bin\Debug\net6.0\DateTimeLibrary.pdb
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.AssemblyInfo.cs
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.dll
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\ref\DateTimeLibrary.dll
+C:\Users\mds770\source\repos\robindpw\Course_UnitTesting_TestDrivenDevelopment\Starter_Solution\DateTimeLibrary\obj\Debug\net6.0\DateTimeLibrary.pdb
