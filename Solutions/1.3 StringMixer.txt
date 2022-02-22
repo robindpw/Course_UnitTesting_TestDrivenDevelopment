@@ -1,0 +1,7 @@
+1.3 StringMixer
+	Write the code and tests for a method that takes two strings and returns expected:
+	"abc", "def" => "adbecf"
+	"ab", "def" => "adbef"
+	"abc", "de" => "adbec"
+	"", "def" => "def"
+	"abc", "" => "abc"

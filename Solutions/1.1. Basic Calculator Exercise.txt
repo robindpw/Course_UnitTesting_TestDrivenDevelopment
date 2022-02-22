@@ -1,0 +1,22 @@
+1. Unit Testing Basics
+1.1. Create a Calculator class with these methods:
+    o Add(int x, int y)
+    o Subtract(int x, int y)
+    o Multiply(int x, int y)
+    o Divide(int x, int y)
+
+1.1.1. Create these tests for Add:
+    o 1 + 0 = 1
+	o -5 + 10 = 5
+	o 0 + 1 = 1
+	o Create tests with the same operands as the previous one, but for the other operations
+
+1.1.2 Implement the asserts from the previous tests using the library FluentAssertions
+
+1.1.3 Parametrize the previous unit tests using Theory and InlineData
+
+1.1.4 We've received a bug, write a test for this case:
+    2147483647 + 1 = 2147483648
+
+
+

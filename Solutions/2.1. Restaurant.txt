@@ -1,0 +1,13 @@
+2.1 Restaurant
+We're responsible for writing the software for a restaurant.
+In a class Restaurant, we can place and serve orders. 
+This class has a dependency on an IKitchen. 
+An order has a TableNumber and a TotalPrice.
+A table can have multiple orders on one night.
+At the end of the night, we want to be able to retrieve statistics for the tables and orders
+that have been placed. We want to see this:
+- The table with the highest sum of all TotalPrices for that table
+- The table with the most orders
+- The avarage TotalPrice
+The Kitchen can return all placed orders through: GetAllOrders()
+Please write code and unit tests for this class
